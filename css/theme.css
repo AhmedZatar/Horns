@@ -8,6 +8,16 @@ p,h2{
 }
 
 img{
+    border: solid 1px #51c4d3;
     box-shadow: 5px 5px #51c4d3;
 }
 
+html{
+    background-color: #f4eee8;
+}
+
+main{
+    background-color: white;
+    border-right: solid 2px #132c33;
+    border-left: solid 2px #132c33;
+}
