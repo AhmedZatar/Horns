@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Original+Surfer&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+div{
+    text-align: center;
+    width: 33%;
+    height: auto;
+    height: 300px;
+    float: left;  
+    margin-bottom: 10px;
+}
+
+img{
+  
+    width: 80%;
+    margin: auto;
+    height: 194px;
+}
+h2{
+    width: 100%;
+    font-size: medium;
+    font-family: 'Original Surfer', cursive;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+p{
+    font-size: small;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-family: 'Montserrat', sans-serif;
+}
+header{
+    text-align: center;
+}
+
+header h1{
+    font-size: xx-large;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    font-family: 'Original Surfer', cursive;
+    
+
+}
+
+header select{
+    margin-bottom: 20px;
+}
+
+footer{
+    text-align: center;
+}
+footer h1{
+    font-size: large;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-family: 'Original Surfer', cursive;
+    
+
+}

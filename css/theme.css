@@ -1,0 +1,13 @@
+header,footer{
+    background-color: #132c33;
+    color: #d8e3e7;
+}
+
+p,h2{
+    color: #126e82;
+}
+
+img{
+    box-shadow: 5px 5px #51c4d3;
+}
+
