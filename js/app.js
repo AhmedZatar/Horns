@@ -20,14 +20,13 @@ function Gallery(horns) {
 
 Gallery.prototype.render = function () {
 
-  let $galleryClone = $('.photo-template').clone();
-  $('main').append($galleryClone);
-  $('main').append($galleryClone);
-  $galleryClone.find('h2').text(this.title);
-  $galleryClone.find('img').attr('src', this.image_url);
-  $galleryClone.find('p').text(this.description);
-  $galleryClone.removeClass('photo-template');
-  $galleryClone.attr('class', this.title);
+  let galleryClone = $('.photo-template').clone();
+  $('main').append(galleryClone);
+  galleryClone.find('h2').text(this.title);
+  galleryClone.find('img').attr('src', this.image_url);
+  galleryClone.find('p').text(this.description);
+
+  galleryClone.attr('class', this.title);
 };
 
 Gallery.readJson = () => {
@@ -87,4 +86,5 @@ $('select').on('change', function (event) {
   };
 
 });
+
 
