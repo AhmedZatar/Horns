@@ -1,11 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Original+Surfer&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+main{
+    display: flex;
+    flex-wrap: wrap;
+}
 div{
     text-align: center;
     width: 33%;
     height: auto;
     height: 300px;
-    float: left;  
+     
     margin-bottom: 10px;
 }
 
@@ -30,6 +34,23 @@ p{
 }
 header{
     text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+}
+aside{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+
+select{
+    
+    width: 20%;
+    align-self: center;
 }
 
 header h1{
@@ -55,4 +76,7 @@ footer h1{
     font-family: 'Original Surfer', cursive;
     
 
+}
+header input{
+    margin-bottom: 20px;
 }

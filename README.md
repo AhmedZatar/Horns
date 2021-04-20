@@ -1,5 +1,10 @@
 # The Gallery of Horns
-### Our website displays images of Horns for various things like animals and mythical creatures. I hope you like it. Thank you for visiting us.
+
+### Our website displays images of Horns for various things like animals and mythical creatures. We hope you like it. Thank you for visiting us.
+
+
+## We worked as pair :  Ahmed Zatar & Bader ALShawabkeh
+
 
 
 
@@ -44,3 +49,23 @@
     Finish time: 07:10 PM
 
     Actual time needed to complete: 1 hours
+
+5. Number and name of feature: Working on lab03 JS
+
+    Estimate of time needed to complete: 3 hours
+
+    Start time: 03:30 PM
+
+    Finish time: 06:00 PM
+
+    Actual time needed to complete: 2:30 hours
+
+5. Number and name of feature: Working on lab03 Css
+
+    Estimate of time needed to complete: 3 hours
+
+    Start time: 06:00 PM
+
+    Finish time: 06:20 PM
+
+    Actual time needed to complete: 20 min
